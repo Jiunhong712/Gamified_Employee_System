@@ -1,3 +1,5 @@
+// Link to google docs: https://docs.google.com/document/d/1sSnpS_MmhmZn9290FmY5CX7R_VGLgSFQJ02s1Ljh_6c/edit?usp=sharing
+
 function onOpen() {
   try {
     var ui = DocumentApp.getUi();
