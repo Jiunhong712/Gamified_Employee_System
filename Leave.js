@@ -1,5 +1,5 @@
-// Link to google forms: https://docs.google.com/forms/d/1BzcvINydON1VzyqPZWa4vB5GmHVRn2vyBDGYc0vzeoc/viewform?edit_requested=true#responses
-// Link to google sheets: https://docs.google.com/spreadsheets/d/14TPHwrTZ5s1DhMon2b2VaedQUm7tDvJMAjspICiXqps/edit?gid=2033981183#gid=2033981183
+// Link to google form: https://docs.google.com/forms/d/1BzcvINydON1VzyqPZWa4vB5GmHVRn2vyBDGYc0vzeoc/viewform?edit_requested=true#responses
+// Link to google sheet: https://docs.google.com/spreadsheets/d/1fq00lgerZGMRl6jNpKNUOwWC9yS-e_OtDLnjuOQdIZM/edit?usp=sharing
 
 function onFormSubmission(e) {
 
